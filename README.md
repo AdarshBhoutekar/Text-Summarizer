@@ -2,6 +2,9 @@
 
 This is a simple text summarizer web app built with FastAPI. It uses a fine-tuned HuggingFace `t5-small` transformer model to take long pieces of text and shrink them down into a quick summary.
 
+## Live Demo :
+https://text-summarizer-fzug.onrender.com/
+
 ## Features
 
 - **Transformer Model:** Uses the `t5-small` model for natural, abstractive summarizations.
